@@ -1,0 +1,11 @@
+/* Este arquivo não inclui o CSS de reset, caso o seu website tenha manipulações em margens, preenchimentos, etc. 
+Recomendamos realizar ajustes prévios no deploy do botão. */
+
+.bt-whatsApp {
+    right: 30px;
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 30px;
+    z-index: 100;
+}
